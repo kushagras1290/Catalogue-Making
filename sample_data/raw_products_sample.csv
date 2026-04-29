@@ -1,0 +1,3 @@
+sku,vendor_sku,gemstone_raw,gemstone2_raw,gem_type_raw,origin_raw,treatment_raw,shape_raw,cutting_style_raw,certificate_colour_raw,certification_lab,product_type,carat_weight,ratti_weight,dimensions,price,special_price,shipping_days,stock_status,vendor_id,certificate_no,image_folder,manual_url_key,notes
+GP-RUBY-0001,VND-RB-001,Ruby,Mozambique Ruby,Mozambique Ruby,Mozambique,Heated,Oval,Faceted,Vivid Red,IGI Certified,Single Stone,2.15,,8.1 x 6.2 x 3.4,125000,115000,3,In Stock,V001,IGI12345,/images/ruby/,,Sample row
+GP-BS-0002,VND-BS-002,Blue Sapphire,Ceylon Blue Sapphire,Royal Blue Sapphire,Sri Lanka,Heated,Cushion,Faceted,Royal Blue,GRS Certified,Single Stone,,3.3,7.8 x 6.9 x 4.0,240000,,7,In Stock,V002,GRS9988,/images/blue-sapphire/,,Ratti row

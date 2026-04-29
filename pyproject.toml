@@ -1,0 +1,9 @@
+[project]
+name = "gempundit-catalog-automation"
+version = "1.0.0"
+description = "GemPundit loose gemstone catalogue automation for Magento imports"
+requires-python = ">=3.10"
+dependencies = ["openpyxl>=3.1.2", "google-auth[requests]>=2.29.0"]
+
+[tool.black]
+line-length = 100
